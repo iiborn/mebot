@@ -2,7 +2,7 @@ do
 
 function run(msg, matches)
        if not is_sudo(msg) then
-              return "just @Iiborn "       end
+              return "🖕🏿 "       end
   local tex = matches[1]
   local sps = matches[2]
   local sp = 'end'
