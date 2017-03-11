@@ -1,16 +1,16 @@
 local function run(msg)
-if msg.text == "121212" then
-	return "121212"
+if msg.text == "t.me/bihal" then
+	return "t.me/bihal"
 end
-if msg.text == "121212" then
-	return "121212"
+if msg.text == "t.me/bihal" then
+	return "1t.me/bihal"
 end
 end
 return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
-		"^121212$",
+		"^t.me/bihal$",
 		
 		}, 
 	run = run,
