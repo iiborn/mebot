@@ -3,7 +3,7 @@ if msg.text == "t.me/bihal" then
 	return "t.me/bihal"
 end
 if msg.text == "t.me/bihal" then
-	return "1t.me/bihal"
+	return "t.me/bihal"
 end
 end
 return {
